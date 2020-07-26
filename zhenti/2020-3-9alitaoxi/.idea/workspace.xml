@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47f86e5b-057a-4269-b95d-98ffe75a010b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="E:\Go" />
+  <component name="ProjectId" id="1Yt00caT6bKRYPiQMZGTGq3CCsM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="E:/go_path/src/dataflow" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="415" y="80" key="#GOROOT" timestamp="1583746393849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="415" y="80" key="#GOROOT/0.0.1536.824@0.0.1536.824" timestamp="1583746393849" />
+    <state x="602" y="175" key="FileChooserDialogImpl" timestamp="1583981581067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="602" y="175" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583981581067" />
+    <state x="402" y="75" key="SettingsEditor" timestamp="1583981556831">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="402" y="75" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583981556831" />
+  </component>
+</project>
